@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sm/static/css/main.4bf46440.chunk.css",
+    "main.js": "/sm/static/js/main.1c83c590.chunk.js",
+    "main.js.map": "/sm/static/js/main.1c83c590.chunk.js.map",
+    "runtime-main.js": "/sm/static/js/runtime-main.3c34f9bd.js",
+    "runtime-main.js.map": "/sm/static/js/runtime-main.3c34f9bd.js.map",
+    "static/js/2.06cf38d4.chunk.js": "/sm/static/js/2.06cf38d4.chunk.js",
+    "static/js/2.06cf38d4.chunk.js.map": "/sm/static/js/2.06cf38d4.chunk.js.map",
+    "index.html": "/sm/index.html",
+    "precache-manifest.6bfcf9e47149a2e52aa8594651a98946.js": "/sm/precache-manifest.6bfcf9e47149a2e52aa8594651a98946.js",
+    "service-worker.js": "/sm/service-worker.js",
+    "static/css/main.4bf46440.chunk.css.map": "/sm/static/css/main.4bf46440.chunk.css.map",
+    "static/js/2.06cf38d4.chunk.js.LICENSE.txt": "/sm/static/js/2.06cf38d4.chunk.js.LICENSE.txt",
+    "static/media/syed_dp.jpg": "/sm/static/media/syed_dp.1f322b5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c34f9bd.js",
+    "static/js/2.06cf38d4.chunk.js",
+    "static/css/main.4bf46440.chunk.css",
+    "static/js/main.1c83c590.chunk.js"
+  ]
+}
