@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactTypingEffect from 'react-typing-effect';
+import Social from '../components/Social';
 import profilepic from '../img/syed_dp.jpg';
 
 class Home extends Component {
@@ -9,6 +10,7 @@ class Home extends Component {
     <img src={profilepic} alt='profilepic' className="profilepic"></img>
     <ReactTypingEffect className="typingeffect" text={['Hey there! I am Mujahed Syed.','I am a graduate student @ Arizona State University.']} 
     speed={88} eraseDelay={600}/>
+    <Social/>
     </div>
     )
     }

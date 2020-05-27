@@ -40,31 +40,19 @@ nav
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  text-align: center;
   
 }
 .profilepic
 {
-  position: absolute;
-  top: 25%;
-  left: 55%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
-  border-radius: 60%;
-  width: 200px;
-  margin: 60px;
-}
+  border-radius: 50%;
+  width: 150px;
+  margin: 30px;
+} 
 .typingeffect
 {
-  position: relative;
-  align-content: center;
-  text-align: center;
   font-size: var(--typing-font);
   margin-bottom: 30px;
-  top: 60%;
-  width: 100px;
 }
-
 nav ul{
   font-size:var(--fontsize-nav) ;
   text-align: center;
@@ -96,50 +84,19 @@ h1,h2,h3,h4,p{
 .social
 {
   position: absolute;
+  margin-top: 20px;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  margin-left: 45px;
-  margin-right: 0px;
-  /*padding-left: 20px ;*/
-  /*padding-right: 25px;*/
-  bottom:60px;
+  bottom: 60px;
 }
-
-a.social {
-  margin: 0 1rem;
-  /*justify-content: center;
-  align-self:center;*/
-  margin-left: 5pt;
-  margin-right: 5pt;
-  transition: transform 250ms;
-  display:flex;
-  flex-direction: column;
+.social i
+{
+  padding-right: 30px;
+  font-size: 30px;
+  color: #9a9b9c;
 }
-
-a.social:hover {
-  transform: translateY(-15px);
-}
-
-a.twitter {
-  color: #49a1eb;
-  padding: 5px;
-}
-a.github{
-  display: flex;
-  color: black;
-  padding: 5px;
-}
-a.linkedin{
-  display: flex;
-  color: #0e76a8;
-  padding: 5px;
-}
-a.hackerrank{
-  display: flex;
-  color: #04b831;
-  padding: 5px;
+.social i:hover
+{
+  color: #0c0707;
 }
 
 .widecard
@@ -194,15 +151,16 @@ a.hackerrank{
   }
   .social
   {
+    left:30px;
+    width: 100vw;
     display: flex;
-    /*justify-content: center;*/
-    flex-direction: row;
+    justify-content: space-around;
     bottom: 30px;
-  } 
-  /* .social icon 
+  }
+  .social i
   {
     padding-right: 0px;
-  } */
+  }
 }
 
 

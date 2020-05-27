@@ -6,7 +6,6 @@ BrowserRouter as Router,
 Route,
 } from "react-router-dom";
 import Navbar from './components/Navbar';
-import Social from './components/Social';
 import Home from './contents/Home';
 import About from './contents/About';
 import Education from './contents/Education';
@@ -18,7 +17,6 @@ function App() {
     <Router>
     <div className="App">
     <Navbar />
-    <Social />
     <Route exact path="/">
     <Home />
     </Route>
