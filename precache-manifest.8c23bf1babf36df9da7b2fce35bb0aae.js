@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aab65b4e7fa7126b2de889f6c9d137a",
+    "revision": "8b06d09e11c2112a456c5042816166bd",
     "url": "/index.html"
   },
   {
-    "revision": "5734e1d3d7009e70ed1b",
+    "revision": "0538bf917b5dc9399157",
     "url": "/static/css/main.f99828cc.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.73096640.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5734e1d3d7009e70ed1b",
-    "url": "/static/js/main.fda1f512.chunk.js"
+    "revision": "0538bf917b5dc9399157",
+    "url": "/static/js/main.cb3c810d.chunk.js"
   },
   {
     "revision": "f12c6b47fb106774ede9",
     "url": "/static/js/runtime-main.fb15189c.js"
   },
   {
-    "revision": "207b2c5bb7bedec25596445f64f20dab",
-    "url": "/static/media/mujahed_dp.207b2c5b.jpg"
+    "revision": "ad077523759ac29dab64bc584df33fcf",
+    "url": "/static/media/Mujahed_Syed_Headshot_2023.ad077523.jpg"
   }
 ]);
